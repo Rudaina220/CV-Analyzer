@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pour — AI Resume Analyzer
 
 Upload a résumé and a job description, and Pour tells you how well they match what skills line up, what's missing, and how to close the gap. Runs entirely in your browser using Groq's free API.
@@ -20,6 +19,3 @@ Upload a résumé and a job description, and Pour tells you how well they match 
 
 - `resume-analyzer.html` — the app (open this file directly, no install needed)
 - `favicon.ico` — site icon
-=======
-# CV-Analyzer
->>>>>>> 871e8e85ec0458001a54451fbd5bd312df66355c
